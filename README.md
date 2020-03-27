@@ -19,5 +19,5 @@ Get "ESP8266 Sketch Data Upload" tool into Tools tab of your Arduino IDE.
 
 The data folder (unzipped) is stored in parallel to the WittyCloudTest.ino sketch.
 <p align="center">
-<img src="https://github.com/Mergenth/WittyCloudTest/blob/master/upload_tool_for_the_unzipped_data_folder.png" alt="ESP8266 Sketch Data Upload" style="width:304px;height:228px;">
+<img src="https://github.com/Mergenth/WittyCloudTest/blob/master/data.zip_Storage_Location_for_WittyCloudTest.png" alt="Folder structure for unzipped data folder storage" style="width:304px;height:228px;">
 </p>
