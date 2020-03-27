@@ -6,3 +6,5 @@ WebSocket Demo on Witty Cloud Board (ESP8266) for checking full functionality of
 </p>
 
 Master Source: Find all information here http://adityatannu.com/blog/post/2016/01/31/ESP8266-Witty-Cloud-Board-Demo.html
+
+Simplified: The data folder is downloadable as zip-container for easier handling,compared to master source.
