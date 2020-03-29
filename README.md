@@ -9,7 +9,7 @@ Master Source: Find all information here http://adityatannu.com/blog/post/2016/0
 
 Simplified: The data folder is downloadable as zip-container for easier handling.
 
-I use this sketch for hardware testing of the two onboard devices, LDR and RGB.
+I use the above sketch for hardware testing of the two onboard devices, LDR and RGB.
 
 My learnings during setting up the Witty Board for testing: 
 A very first step is to get the upload tool up and running
