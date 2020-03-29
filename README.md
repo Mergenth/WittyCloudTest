@@ -17,7 +17,7 @@ Get "ESP8266 Sketch Data Upload" tool into Tools tab of your Arduino IDE.
 <img src="https://github.com/Mergenth/WittyCloudTest/blob/master/upload_tool_for_the_unzipped_data_folder.png" alt="ESP8266 Sketch Data Upload" style="width:304px;height:228px;">
 </p>
 
-Once the board is flashed, read from Serial Monitor its IP, asigned by your local DHCP server.
+Once the board is flashed, read from Serial Monitor its IP-adress, asigned by your local DHCP server.
 This IP-adress you enter into the menuinterface.js file (inside data folder). Upload it to the Witty Board.
 You might want to do it with this:   http://local.ip-adress/edit 
 
