@@ -11,7 +11,7 @@ Simplified: The data folder is downloadable as zip-container for easier handling
 
 I use the above sketch for hardware testing of the two onboard devices, LDR and RGB.
 
-My learnings during setting up the Witty Board for testing: 
+My learnings during setting up the Witty Board: 
 A very first step is to get the upload tool up and running
 https://github.com/esp8266/arduino-esp8266fs-plugin  
 Get "ESP8266 Sketch Data Upload" tool into Tools tab of your Arduino IDE.
